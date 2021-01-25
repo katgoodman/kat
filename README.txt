@@ -7,7 +7,7 @@ A/B testing model with six different hypotheses using a dataset from Iowa
 Tableau Mini-Project: Superstore Strategic Dashboard
 Dashboard for the Superstore Dataset, created with Excel and Tableau
 
-Python Mini-Project: SQL & Python
+Python Mini-Project: seaborn & pandas Housing Visulization 
 Python mini project using a SQL database to visualize statistical tests
 
 Capstone #3: Sephora and Customer Behavior
